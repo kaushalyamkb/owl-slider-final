@@ -1,0 +1,5 @@
+owl carosal = slide transtion 10s
+fade in, 
+mobile -> item 1 & without arrows 
+tab -> item 2 without dot gap
+desktop -> item 3 & arrows without dots
